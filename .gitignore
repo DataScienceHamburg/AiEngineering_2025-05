@@ -1,0 +1,6 @@
+# _scripts/
+pyproject.toml
+uv.lock
+.env
+*.mp4
+*.pt
